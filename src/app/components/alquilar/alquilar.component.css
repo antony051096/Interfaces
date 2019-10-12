@@ -1,0 +1,43 @@
+div.barra{
+    width:100%;
+}
+div.estante {
+    width: 90%;
+    margin: 10px auto; 
+}
+
+div.tarjeta {
+    height: 530px;
+    margin-top: 20px;
+    float: left; 
+    margin : 20px;
+}
+div.botones{
+    margin-top: 5px;
+}
+
+button.btn-left{
+    float: left;
+    width:48%;
+}
+
+button.btn-right{
+    float: right;
+    width:48%;
+}
+
+img.imagen{
+    height: 200px;
+}
+
+label.radio-inline{
+    margin-right: 15px;
+}
+
+.contenedor-imagen{
+    margin:3%;
+}
+
+div.botones button.btn {
+    width:200px;
+}

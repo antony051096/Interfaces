@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Vibur);
+
+
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Semi+Expanded');
+
+.nav-titulo{
+    font-family: "Encode Sans Semi Expanded", sans-serif;
+    font-size: 40px;
+    letter-spacing: 2.4px;
+    word-spacing: 2.4px;
+    color: rgb(39, 39, 39);
+    font-weight: 400;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: normal;
+}
+
+.nav-barrita{
+  font-family: "Encode Sans Semi Expanded", sans-serif;
+  font-size: 18px;
+  letter-spacing: 2.4px;
+  word-spacing: 2.4px;
+  color: rgb(39, 39, 39);
+  font-weight: 400;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+}
+
+.nav-boton{
+  font-family: "Encode Sans Semi Expanded", sans-serif;
+  font-size: 18px;
+  letter-spacing: 2.4px;
+  word-spacing: 2.4px;
+  color: rgb(255, 255, 255);
+  font-weight: 400;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+}

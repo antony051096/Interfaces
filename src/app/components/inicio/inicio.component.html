@@ -1,0 +1,32 @@
+<!--
+<div class="container">
+    <h1>Iniciar sesión</h1>
+    <form class="form" (submit) = "loginUser($event)">
+      <input type="text" placeholder="Username" id="username">
+      <input type="password" placeholder="Password" id="password">
+      <input type="submit" value="Submit">
+    </form>
+</div>
+-->
+<div class="container">
+  <div class="row" style="justify-content: center;">
+      <div class="login-form">
+          <h1 class="nav-titulo">BIENVENIDO</h1>
+          <form class="form" (submit) = "loginUser($event)">
+              <div class="form-group" style="margin-top: 5%;">
+                <p class="nav-subtitulo">Por favor ingrese los siguientes datos:</p>
+                <input type="text" class="form-control nav-subtitulo" placeholder="Numero de tarjeta " id="username">
+                <i class="fa fa-user"></i>
+              </div>
+              <div class="form-group log-status">
+                <input type="password" class="form-control nav-subtitulo" placeholder="Contraseña" id="password">
+                <i class="fa fa-lock"></i>
+              </div>
+            
+              <button type="submit" class="log-btn nav-subtitulo" value="Submit" >INGRESAR</button>
+          </form>
+      </div>
+
+  </div>
+  </div>
+  
